@@ -168,8 +168,11 @@ form input {
     background-image: linear-gradient(orange, tomato);
 }
 
+.socislIcons i {
+   color: black;
+
+}
 .socislIcons i:hover {
-    padding: 5px;
     border-radius: 10px;
     border: solid 3px tomato;
 }
